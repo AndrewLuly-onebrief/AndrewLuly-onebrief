@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewLuly-onebrief
-- I am an Engineering Manager at OneBrief
+- I am the Interim VP of Engineering at OneBrief
 - I care about
   - My family
   - My dogs
